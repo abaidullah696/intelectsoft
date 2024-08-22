@@ -1,0 +1,32 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    background-color: aqua;
+    color: #fff;
+}
+.firstSection {
+    height: 100%;
+    width: 100%;
+  background-image: url(https://img.freepik.com/free-photo/computer-screens-running-programming-code-empty-software-developing-agency-office-computers-parsing-data-algorithms-background-neural-network-servers-cloud-computing-data-room_482257-33353.jpg?t=st=1724325172~exp=1724328772~hmac=977c56099e05aad6a3349b80a11f5fa50ef791d0f9f3303e0fdc179d0d65ca34&w=740);  
+}
+.text-hero h1{
+    margin-top: 100px;
+    margin-left: 150px;
+    margin-right: 80px;
+    /* opacity: 0.2; */
+    color: #fff;
+}
+
+.firstSection p{
+    margin-top: 0px;
+    margin-left: 150px;
+    margin-right: 80px;
+    opacity: 0.4;
+    color: #fff;
+}
+.text-hero{
+    background-color: rgba(49, 46, 46, 0.678);
+    border-radius: 20px;
+}
+
+
